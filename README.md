@@ -1,6 +1,6 @@
 # Web Testing Project - OrangeHRM Demo
 
-Полный цикл ручного тестирования веб-приложения OrangeHRM Demo.
+Ручное тестирование веб-приложения OrangeHRM Demo.
 
 ## Тест-план
 
