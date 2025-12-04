@@ -1,4 +1,4 @@
-# Web Testing Project - OrangeHRM Demo
+# Web Testing - OrangeHRM Demo
 
 Ручное тестирование веб-приложения OrangeHRM Demo.
 
